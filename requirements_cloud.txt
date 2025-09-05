@@ -1,0 +1,22 @@
+# Streamlit Cloud optimized requirements
+streamlit>=1.28.0
+aiofiles>=0.8.0
+aiohttp>=3.8.0
+anthropic>=0.3.0
+nest_asyncio
+pathlib2
+PyPDF2>=2.0.0
+reportlab>=3.5.0
+pydantic>=2.0.0
+pyyaml
+requests>=2.25.0
+python-dotenv
+typing-extensions
+
+# Lightweight alternatives for cloud deployment
+asyncio-mqtt
+mcp-agent
+mcp-server-git
+
+# Optional: Reduce heavy dependencies for cloud
+# docling  # Comment out if too heavy for cloud
