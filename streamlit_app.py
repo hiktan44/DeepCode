@@ -2,8 +2,6 @@
 DeepCode - AI Research Engine (Streamlit Cloud Version)
 """
 import streamlit as st
-import requests
-import json
 
 # Page configuration
 st.set_page_config(
